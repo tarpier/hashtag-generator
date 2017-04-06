@@ -1,2 +1,7 @@
 .vscode
 hashtags.json
+node_modules/
+
+test.js
+options2.json
+hashcloud.txt
